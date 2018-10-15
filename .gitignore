@@ -1,0 +1,6 @@
+data/
+*.swp
+*.csv
+*.json
+*.zip
+*.tsv

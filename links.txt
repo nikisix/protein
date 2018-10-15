@@ -1,0 +1,19 @@
+challenge home
+    https://www.kaggle.com/c/human-protein-atlas-image-classification/
+
+project overview
+    https://www.proteinatlas.org/cell
+
+data generators
+    https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
+approaches
+    inception v2
+    https://www.kaggle.com/byrachonok/pretrained-inceptionresnetv2-base-classifier
+
+dl-models
+    https://github.com/fchollet/deep-learning-models
+    https://github.com/keras-team/keras/tree/master/keras/applications
+
+    inception v3
+        https://arxiv.org/abs/1512.00567

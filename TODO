@@ -1,0 +1,6 @@
+Determine how appropriate the inceptions weight reuse (vs a stock convnet) is for the challenge:
+    https://www.kaggle.com/byrachonok/pretrained-inceptionresnetv2-base-classifier
+    https://arxiv.org/abs/1512.00567
+
+Add a posterior attentional layer
+    https://github.com/keras-team/keras/issues/1678
