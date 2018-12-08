@@ -17,3 +17,6 @@ dl-models
 
     inception v3
         https://arxiv.org/abs/1512.00567
+
+previous challenge:
+    https://web.archive.org/web/20170630041632/https://www.proteinatlas.org/CYTO_challenge2017/Cyto2017_Image_analysis_challenge_description.pdf
